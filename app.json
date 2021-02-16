@@ -1,0 +1,12 @@
+{
+  "name": "finalapp",
+  "displayName": "finalapp",
+  "expo": {
+    "name": "finalapp",
+    "slug": "finalapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
